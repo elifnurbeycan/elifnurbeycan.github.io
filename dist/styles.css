@@ -167,7 +167,7 @@ footer { margin-top:5rem; display:flex; justify-content:space-between; font:.61r
   .site-header nav { display:none; }
   .availability { font-size:.55rem; }
   .hero { padding:7.2rem 5vw 2rem; min-height:100svh; }
-  .hero-kicker span:nth-child(2) { display:none; }
+  .hero-kicker { gap:.7rem; font-size:.48rem; }
   .hero-title { font-size:clamp(3.3rem,17vw,6.6rem); line-height:.84; }
   .hero-title .line-b { text-align:left; }
   .hero-bottom p { width:76%; font-size:.84rem; }
